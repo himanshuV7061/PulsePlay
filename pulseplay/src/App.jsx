@@ -133,7 +133,7 @@ function App() {
     if (!chatInput.trim()) return;
 
     const messageData = {
-      user: "Himanshu",
+      user: "UNKNOWN_USER",
       text: chatInput,
     };
 
