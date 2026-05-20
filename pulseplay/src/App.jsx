@@ -49,7 +49,7 @@ function App() {
 
   const leaderboard = [
     {
-      name: "Amniiiiiiiii",
+      name: "william",
       score: 120,
     },
     {
